@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoNotes Pro
 
 A modern web application that generates structured notes from YouTube videos and audio files using AI. Built with FastAPI (Python) and React.
@@ -311,3 +312,6 @@ For issues and questions, please open an issue on the repository.
 
 
 
+=======
+# Auto_Notes
+>>>>>>> 9848fad3f1fd3ee57cc7f6ff3e9cb2f434e79b0f
