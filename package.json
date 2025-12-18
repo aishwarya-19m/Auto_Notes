@@ -1,0 +1,13 @@
+{
+    "name": "autonotes-pro-root",
+    "version": "1.0.0",
+    "description": "Root configuration for AutoNotes Pro",
+    "scripts": {
+        "dev": "npm run dev --prefix frontend",
+        "install-frontend": "npm install --prefix frontend",
+        "build": "npm run build --prefix frontend"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
